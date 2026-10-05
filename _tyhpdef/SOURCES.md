@@ -1,5 +1,5 @@
 # Sources for this tyhpdef generation
 
-- Composer package: illuminate/macroable 13.32.0
+- Composer package: illuminate/macroable 13.33.0
 - Layer 1 from generate_tyhpdef --source (PSR-4 maps to `""`, so --package-path has no autoload paths)
 - Catalog: see the Tyhp repository THIRD_PARTY.md
